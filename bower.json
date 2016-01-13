@@ -1,0 +1,23 @@
+{
+  "name": "projects",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Victor Jackson <victorj.jackson@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "angular-resource": "~1.4.8"
+  }
+}
